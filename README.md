@@ -1,1 +1,1 @@
-# maven-dummy-project
+# maven-dummy-project-jenkins
